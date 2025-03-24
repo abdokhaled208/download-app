@@ -40,7 +40,6 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    border-bottom: 0.2px solid rgba(0, 0, 0, 0.185);
 }
 
 .image img {
@@ -148,7 +147,7 @@ h1 {
 
 @media (max-width: 480px) {
     .container {
-        width: 98%;
+        width: 90%;
         padding: 10px;
     }
 
@@ -166,11 +165,10 @@ h1 {
     }
 
     .button {
-        font-size: 14px;
+        font-size: 12px;
         width: 45%;
     }
 }
-
 
 
 
